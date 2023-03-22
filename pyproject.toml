@@ -9,4 +9,4 @@ dependencies = [
     "com.softalks.debug @ git+https://github.com/hiebra/words-py@v0.0.1",
 ]
 [tool.setuptools.packages.find]
-where = ["src"]
+where = ["runnable"]
