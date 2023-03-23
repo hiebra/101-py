@@ -1,5 +1,5 @@
 [project]
-name = "Natural Numbers Writer"
+name = "com.softalks.numbers"
 description = "Writes all the natural numbers to console"
 version = "0.0.1"
 authors = [
