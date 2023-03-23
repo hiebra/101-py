@@ -6,7 +6,7 @@ authors = [
   {name = "Santiago Ruiz", email= "hiebra@hotmail.com"}
 ]
 dependencies = [
-    "com.softalks.debug @ git+https://github.com/hiebra/sh-py@v0.0.1"
+    "com.softalks.sh @ git+https://github.com/hiebra/sh-py@v0.0.1"
 ]
 [tool.setuptools.packages.find]
 where = ["runnable"]
