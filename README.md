@@ -1,5 +1,7 @@
 # Python 101: Natural numbers writer
 Prints "all" the natural numbers to the console
+
+The command used to run 'pip' and the Python interpreter are tested on Linux Mint 21.1. Check your OS/distribution for adapt them if necessary
 ## Installation
 ### Last version
 ```
