@@ -16,7 +16,9 @@ pip3 install https://github.com/hiebra/rpdb/archive/refs/tags/v0.0.1.zip
 python3 -m com.softalks.numbers
 ```
 ## Remote debugging
-If your Python IDE is Pydev/LiClipse, click [here](https://github.com/hiebra/rpdb/blob/main/README.md#requirements) to know how to debug this code remotely 
+Only if your Python IDE is Pydev/LiClipse
+
+Click [here](https://github.com/hiebra/rpdb/blob/main/README.md#requirements) to know how to debug this code remotely
 ## Uninstallation
 ```
 pip3 uninstall com.softalks.numbers
