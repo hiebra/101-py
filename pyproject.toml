@@ -1,6 +1,6 @@
 [project]
 Metadata-Version = 2.3
-Name = com.softalks.numbers
+Name = 'com.softalks.numbers'
 Version = 1.0b1
 description = 'Writes all the natural numbers to console'
 authors = [
