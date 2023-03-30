@@ -1,8 +1,8 @@
 [project]
-Metadata-Version = 2.3
-Name = 'com.softalks.numbers'
-Version = '1.0b1'
+name = 'com.softalks.numbers'
+version = '1.0.1b1'
 description = 'Writes all the natural numbers to console'
+readme = 'README.md'
 authors = [
   {name = 'Santiago Ruiz', email = 'hiebra@hotmail.com'}
 ] 
