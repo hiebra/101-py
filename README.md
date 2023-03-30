@@ -5,11 +5,11 @@ The commands used to run pip and the Python interpreter (`pip3` and `python3`) a
 ## Installation
 ### Last version
 ```
-pip3 install https://github.com/hiebra/101-py/archive/refs/heads/main.zip
+pip3 install com.softalks.numbers
 ```
 ### Specific version
 ```
-pip3 install https://github.com/hiebra/rpdb/archive/refs/tags/v0.0.1.zip
+pip3 install com.softalks.numbers==1.0.1
 ```
 ## Execution
 ```
