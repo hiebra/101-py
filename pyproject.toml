@@ -1,10 +1,12 @@
 [project]
-name = "com.softalks.numbers"
-description = "Writes all the natural numbers to console"
-version = "1.0.0"
+Metadata-Version = 2.3
+Name = 'com.softalks.numbers'
+Version = 1.0.1
+description = 'Writes all the natural numbers to console'
 authors = [
-  {name = "Santiago Ruiz", email= "hiebra@hotmail.com"}
+  {name = 'Santiago Ruiz', email = 'hiebra@hotmail.com'}
 ]
+readme = 
 dependencies = [
-    'com.softalks.sh  >= 1, < 2'
+    'com.softalks.sh >= 1, < 2'
 ]
