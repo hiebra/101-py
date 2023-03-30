@@ -1,7 +1,7 @@
 [project]
 Metadata-Version = 2.3
 Name = 'com.softalks.numbers'
-Version = 1.0.1
+Version = 1.0b1
 description = 'Writes all the natural numbers to console'
 authors = [
   {name = 'Santiago Ruiz', email = 'hiebra@hotmail.com'}
