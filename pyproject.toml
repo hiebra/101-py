@@ -1,6 +1,6 @@
 [project]
 name = "com.softalks.numbers"
-version = "1.0.1b2"
+version = "1.0.1b3"
 description = "Writes all the natural numbers to console"
 readme = "README.md"
 license = {file = "LICENSE.txt"}
