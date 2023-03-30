@@ -5,8 +5,7 @@ Version = 1.0b1
 description = 'Writes all the natural numbers to console'
 authors = [
   {name = 'Santiago Ruiz', email = 'hiebra@hotmail.com'}
-]
-readme = 
+] 
 dependencies = [
     'com.softalks.sh >= 1, < 2'
 ]
