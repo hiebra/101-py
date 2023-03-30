@@ -1,11 +1,15 @@
 [project]
-name = 'com.softalks.numbers'
-version = '1.0.1b1'
-description = 'Writes all the natural numbers to console'
-readme = 'README.md'
+name = "com.softalks.numbers"
+version = "1.0.1b2"
+description = "Writes all the natural numbers to console"
+readme = "README.md"
+requires-python = ">=3.10.6"
 authors = [
-  {name = 'Santiago Ruiz', email = 'hiebra@hotmail.com'}
+  {name = "Santiago Ruiz", email = "hiebra@hotmail.com"}
 ] 
 dependencies = [
-    'com.softalks.sh >= 1, < 2'
+    "com.softalks.sh >= 1, < 2"
 ]
+[project.urls]
+"Homepage" = "https://github.com/hiebra/101-py"
+"Bug Tracker" = "https://github.com/hiebra/101-py/issues"
